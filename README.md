@@ -1,14 +1,22 @@
-<!-- 🌐 GitHub Profile README for Cheikh Mbacke D. -->
+<!-- 🌐 Animated GitHub Profile README for Cheikh Mbacke D. -->
 
-<h1 align="center">👋 Hi, I'm Cheikh Mbacke D.</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Cheikh+Mbacke+D.;Full-Stack+Web+Developer;AI+Agent+Developer;UI/UX+Designer;Welcome+to+my+GitHub!"/>
+</h1>
+
+---
 
 <h3 align="center">💡 I build intelligent, automated, and user-centered digital experiences.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pseudogeek&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
 ### 🧠 About Me  
 I'm a **Full-Stack Web Developer**, **AI Agent Developer**, and **UI/UX Designer** passionate about creating modern, efficient, and scalable digital products.  
-I love blending **design thinking**, **AI automation**, and **growth hacking** to build projects that are both visually stunning and strategically impactful.  
+I combine **AI automation**, **growth hacking**, and **human-centered design** to bring impactful digital solutions to life.  
 
 ---
 
@@ -39,24 +47,43 @@ I love blending **design thinking**, **AI automation**, and **growth hacking** t
 
 ### 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cheikh-mbacke-d-a77820214)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cheikh_md_21)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://pseudogeek.github.io)
-[![Email](https://img.shields.io/badge/Email-dcheikhmbacke00@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcheikhmbacke00@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/cheikh-mbacke-d-a77820214" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Cheikh_md_21" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://pseudogeek.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:dcheikhmbacke00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dcheikhmbacke00@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Fun Fact  
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pseudogeek&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudogeek&theme=radical" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pseudogeek&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### ⚡ Fun Quote  
 > “We are a digital generation that dreams in code and thinks in design.”  
 
 ---
 
-### 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pseudogeek&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudogeek&theme=radical" alt="GitHub Streak" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
